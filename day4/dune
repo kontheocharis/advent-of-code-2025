@@ -1,0 +1,7 @@
+(executable
+ (name p1)
+ (libraries core))
+
+(executable
+ (name p2)
+ (libraries core))
