@@ -9,7 +9,7 @@ Doing *Advent of Code* in a different language each day.
 | 3   | Bash           |      ✓ |
 | 4   | OCaml          |      ✓ |
 | 5   | Lisp           |      ✓ |
-| 6   | Factor         |        |
+| 6   | Factor         |      ✓ |
 | 7   | SQL            |        |
 | 8   | APL            |        |
 | 9   | Idris          |        |
